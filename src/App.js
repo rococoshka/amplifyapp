@@ -11,6 +11,7 @@ function App() {
         </p>
 	<p>
 	  So if you need something like this shit you know my phone number:D
+	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
