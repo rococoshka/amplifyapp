@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload and add some prank.
+          Hello Aliona, it's React app was deployed by Aws aPLIFY when I push to git hub.
         </p>
         <a
           className="App-link"
