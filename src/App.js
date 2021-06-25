@@ -7,10 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello Alexandr, it's React app was deployed by Aws aPLIFY when I push to git hub.
+          Конечно моё, или ты думаешь кто то так хочет твои бэргеры состилить.
         </p>
 	<p>
-	  And it's mean that I will be still all your bergers soon
+	  pepePOG
 	</p>
         <a
           className="App-link"
